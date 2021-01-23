@@ -1,2 +1,3 @@
 node_modules
-lib
+#Commenting this out since we need the lib folder in the release
+#lib
