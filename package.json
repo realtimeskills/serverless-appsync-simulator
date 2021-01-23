@@ -20,7 +20,7 @@
     "/lib"
   ],
   "dependencies": {
-    "amplify-appsync-simulator": "https://github.com/realtimeskills/amplify-cli/releases/download/1.25.4/amplify-appsync-simulator.tar.gz",
+    "amplify-appsync-simulator": "https://github.com/realtimeskills/amplify-cli/releases/download/1.25.7/amplify-appsync-simulator.tar.gz",
     "amplify-nodejs-function-runtime-provider": "^1.1.6",
     "aws-sdk": "^2.792.0",
     "axios": "^0.21.0",
